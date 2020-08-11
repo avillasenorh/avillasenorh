@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💼 Where i am currently working at/as
-- [Institute of Marine Sciences](https://icm.csic.es/en) 💼 
+- [Institute of Marine Sciences](https://www.icm.csic.es/en) 💼 
 - [CSIC (Spanish Council for Scientific Research)](https://www.csic.es)
 ### 💻 What i am currently/done working on
 - Seismic tomography using arrival times of local earthquakes  🚀 *coming soon*
