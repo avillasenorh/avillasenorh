@@ -1,3 +1,5 @@
+![](banner1.png)
+
 ### Hi there 👋
 
 I am a seismologist at the Institute of Marine Sciences (ICM-CSIC) in Barcelona.
