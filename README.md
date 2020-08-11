@@ -1,4 +1,4 @@
-![](banner1.png)
+![](https://github.com/avillasenorh/avillasenorh/blob/master/banner1.png)
 
 ### Hi there 👋
 
